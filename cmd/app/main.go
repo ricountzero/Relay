@@ -1,4 +1,4 @@
-package app
+package main
 
 import (
 	"context"
@@ -8,7 +8,7 @@ import (
 	"syscall"
 	"time"
 
-	"github.com/ricountzero/Relay.git/internal/httpserver"
+	"github.com/ricountzero/Relay/internal/httpserver"
 )
 
 func main() {

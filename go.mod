@@ -1,3 +1,3 @@
-module github.com/ricountzero/Relay.git
+module github.com/ricountzero/Relay
 
 go 1.26.5
